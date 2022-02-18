@@ -1,4 +1,4 @@
-- 👋 Ayo, I’m @nickleodoen or Nikhil Yachareni!
+- 👋 Ayo, I’m Nikhil Yachareni or @nickleodoen! 
 - 📙 I'm a Junior (by credit) at UW-Madison
 - 👀 I’m interested in AI, ML and Full Stack Development!
 - 🌱 I’m currently learning Data Science (Python) and Machine Organization and Programming(C)
