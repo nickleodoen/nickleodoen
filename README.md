@@ -6,8 +6,9 @@
 - 🏀 I played as a center on my high school basketball team. Hmu if you wanna play w the gang at Madison!
 - 📖 The best book I've read is "Sapiens: A brief history of Humankind" by Yuval Noah Harari! 
 - 📫 How to reach me 
-  - By Email: nikhilyachareni@gmail.com
-  - By social media: Instagram and Snapchat: @nickleodoen
+  - By Email: nikhilyachareni@gmail.com (preferred)
+  - By social media: Instagram, Snapchat, Reddit: @nickleodoen
+  - By Discord: nickleodoen#8406
 
 <!---
 nickleodoen/nickleodoen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
